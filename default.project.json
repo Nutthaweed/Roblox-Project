@@ -23,6 +23,10 @@
       }
     },
 
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+
     "Workspace": {
       "$properties": {
         "StreamingEnabled": false,
