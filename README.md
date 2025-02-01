@@ -15,3 +15,11 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+## Getting Roact
+To build the Roact UI Component, use:
+
+- Download the .rbxm file and insert to ReplicatedStorage within [Github Release](https://github.com/Roblox/Roact/releases).
+- or Synce the file with **Rojo** to with change the filesystem
+
+For more info, check out [document](https://roblox.github.io/roact/guide/installation/).
